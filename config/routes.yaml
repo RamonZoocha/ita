@@ -1,3 +1,0 @@
-show:
-  path: /show
-  controller: App\Controller\StudentController::show
